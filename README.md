@@ -1,5 +1,5 @@
 # adjusted-workload-model
-Perfect. Here is the README content to paste in. Copy everything between the lines:
+
 Adjusted Workload Model: Technical Specifications
 Supplemental material for "Beyond Unit Hour Utilization: Toward a Fatigue-Informed Workload Measure for the Fire Service" — Korotkin, W. & Stephenson, A.
 Data Source
