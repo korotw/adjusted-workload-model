@@ -44,4 +44,4 @@ A sensitivity analysis assessed whether changes in multiplier magnitudes affecte
 
 ---
 
-*For questions contact: [korotkinw@bouldercolorado.gov](mailto:korotkinw@bouldercolorado.gov)*
+*For questions contact: [korotkinw@bouldercolorado.gov](mailto:wkorotkin@gmail.com)*
